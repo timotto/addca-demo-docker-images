@@ -1,0 +1,4 @@
+openjdk 8-jdk-alpine alpine
+openjdk 8-jdk debian
+openjdk latest debian
+centos latest rhel
