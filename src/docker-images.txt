@@ -1,11 +1,2 @@
 alpine latest alpine
-openjdk 8-jdk-alpine alpine
-openjdk 8-jdk debian
-openjdk latest debian
-centos latest rhel
-timotto/alpine-nano latest alpine
-node alpine alpine
-beevelop/ionic latest debian
-nginx alpine alpine
-nginx alpine-perl alpine
 debian latest debian
