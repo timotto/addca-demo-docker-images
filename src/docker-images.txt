@@ -5,3 +5,4 @@ openjdk latest debian
 centos latest rhel
 timotto/alpine-nano latest alpine
 node alpine alpine
+beevelop/ionic latest debian
