@@ -4,3 +4,4 @@ openjdk 8-jdk debian
 openjdk latest debian
 centos latest rhel
 timotto/alpine-nano latest alpine
+node alpine alpine
